@@ -1,4 +1,8 @@
-📚 Student Data Organizer
+# explanation video 
+https://drive.google.com/file/d/1K2Lhgb0SinhZUBxH2YKiFWlSUJ5ReudS/view?usp=sharing
+ 
+ 
+ 📚 Student Data Organizer
 
 A small Python project made to keep student information organized in one place.
 
